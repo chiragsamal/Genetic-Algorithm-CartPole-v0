@@ -10,6 +10,8 @@ You lose the game if the angle of the pole with the cart is more than 15 degrees
 You win the game if you manage to keep the pole balanced for given number of frames. 
 For every frame you mange to keep the pole in upright position you get a ‘+1’ score.
 
+![Cartpole](https://github.com/chiragsamal/Genetic-Algorithm-CartPole-v0/blob/master/cartpole.jpg)
+
 ### Solution
 To solve this problem we will first create some random game data and then we will feed it to our GA model
 which in turn will predict the movement of cart(left or right) for every frame.
